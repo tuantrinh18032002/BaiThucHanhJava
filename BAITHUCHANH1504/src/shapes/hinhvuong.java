@@ -1,7 +1,5 @@
 package shapes;
 import java.util.Scanner;
-
-import shapes.hinhchunhat;
 public class hinhvuong extends hinhchunhat {
     
     //Constructor

@@ -1,4 +1,4 @@
-package Main;
+package main;
 
 import Shapes.hinhchunhat;
 import Shapes.hinhtron;

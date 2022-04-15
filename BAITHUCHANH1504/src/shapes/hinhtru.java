@@ -2,6 +2,7 @@ package shapes;
 import java.util.Scanner;
 
 import Shapes.hinhtron;
+
 public class hinhtru extends hinhtron {
     public float chieucao;
     //Costructor

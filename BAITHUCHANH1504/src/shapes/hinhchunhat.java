@@ -1,7 +1,7 @@
 package shapes;
 import java.util.Scanner;
 
-import shapes.hinhoc;
+
 public class hinhchunhat extends hinhoc {
     public float dai;
     public float rong;
